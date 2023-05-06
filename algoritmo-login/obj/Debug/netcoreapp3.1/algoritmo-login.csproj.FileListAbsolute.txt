@@ -1,0 +1,14 @@
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\bin\Debug\netcoreapp3.1\algoritmo-login.exe
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\bin\Debug\netcoreapp3.1\algoritmo-login.deps.json
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\bin\Debug\netcoreapp3.1\algoritmo-login.runtimeconfig.json
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\bin\Debug\netcoreapp3.1\algoritmo-login.runtimeconfig.dev.json
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\bin\Debug\netcoreapp3.1\algoritmo-login.dll
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\bin\Debug\netcoreapp3.1\algoritmo-login.pdb
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.csproj.AssemblyReference.cache
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.AssemblyInfoInputs.cache
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.AssemblyInfo.cs
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.csproj.CoreCompileInputs.cache
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.dll
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.pdb
+C:\temp\ws-dotnet\algoritmo-login\algoritmo-login\obj\Debug\netcoreapp3.1\algoritmo-login.genruntimeconfig.cache
