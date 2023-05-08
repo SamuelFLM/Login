@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using algoritmo_login.User;
 
-namespace algoritmo_login.Login
+namespace algoritmo_login.User
 {
+
     public class Login
     {
         private Register register { get; set; }

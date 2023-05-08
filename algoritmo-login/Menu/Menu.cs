@@ -6,5 +6,12 @@ namespace algoritmo_login.Menu
 {
     internal class Menu
     {
+
+        public Menu() { }
+
+        public void MenuUsuario()
+        {
+
+        }
     }
 }
