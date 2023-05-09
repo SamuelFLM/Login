@@ -5,5 +5,5 @@
 <img src="img/logo.png" alt="logo_samuelflm">
 
 
-### Progresso
+### Projeto Finalizado.
 

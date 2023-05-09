@@ -5,15 +5,15 @@ using System.Text;
 
 namespace algoritmo_login.Cadastro
 {
-    public class Cadastro
+    public class CadastroUser
     {
         public Cliente cliente { get; set; }
         public Register register { get; set; }
         
     
 
-        public Cadastro() { }
-        public object CadastroUsuario()
+        public CadastroUser() { }
+        public static void CadastroUsuario()
         {
             Console.WriteLine("Olá, bem-vindo!!\nPara Começar informe seu nome.");
             Console.Write("Nome: ");
@@ -41,15 +41,13 @@ namespace algoritmo_login.Cadastro
             string[] emailESenha = { "E-mail: ", "Senha: " };
             List<string> dadosUsuario = new List<string>();
 
-            for (int i = 0; i < emailESenha.Length; i++)
+            for (int i = 0; i < 2; i++)
             {
                 Console.Write(emailESenha[i]);
-                dadosUsuario[i] = Console.ReadLine();
+                dadosUsuario.Add(Console.ReadLine());
             }
             var dados1 = cadastraDadosCliente(nomeUsuario, idadeUsuario);
             var dados2 = cadastroLoginUsuario(dadosUsuario[0], dadosUsuario[1]);
-
-            return getDados(dados1, dados2);
         }
 
 
